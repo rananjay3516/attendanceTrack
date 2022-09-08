@@ -1,3 +1,3 @@
 # calc.c
 
-keeps track of reqiured classes in order to satisfy minimum attendance
+keeps track of required classes in order to satisfy minimum attendance
